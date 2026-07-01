@@ -1,6 +1,6 @@
 # TESR Serial Studio
 
-A Docklight-style **web serial monitor** by Thai Embedded System and Robotics (TESR).
+A **web serial monitor** by Thai Embedded System and Robotics (TESR).
 Runs 100% in the browser (no install, no backend) using the **Web Serial API**.
 
 ![theme](Logo_Red-No-Background.png)
