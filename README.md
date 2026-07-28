@@ -26,7 +26,7 @@ Runs 100% in the browser (no install, no backend) using the **Web Serial API**.
 1. Create a repository, e.g. `tesr-serial-studio`
 2. Upload `index.html`, `Logo_Red-No-Background.png`, `README.md`
 3. Repo **Settings → Pages → Source: Deploy from a branch → main / (root)**
-4. Open `https://<your-user>.github.io/tesr-serial-studio/`
+4. Open https://tesr-channel.github.io//tesr-serial-studio
 
 > Web Serial requires a **secure context** — GitHub Pages (HTTPS) or
 > `http://localhost` both work. Opening the file directly (`file://`) also works
